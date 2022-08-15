@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273351701927",
+    "project_id": "vehicle-track-2e6fc",
+    "storage_bucket": "vehicle-track-2e6fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273351701927:android:1bbb3c4e8cef4955be3282",
+        "android_client_info": {
+          "package_name": "com.example.onlyrequi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273351701927-7020lg5idov8vonqqnc138751fbmjrtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Jtx3Kkqzi5mCqeT_8Izw8BkafaW8-ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273351701927-7020lg5idov8vonqqnc138751fbmjrtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
